@@ -1,2 +1,2 @@
 # hello-world
-short description
+i am a guy who is trying to learn github
